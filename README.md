@@ -14,3 +14,4 @@ Do not put the quotes around your output. I will do that in the problem.
 
 # Screen Shot of the Test Output 
 
+<img width="664" alt="Fizz_Buzz_Too" src="https://user-images.githubusercontent.com/107374333/213904195-8a9901f8-6435-46a0-bd33-b8a2c773eff0.png">
